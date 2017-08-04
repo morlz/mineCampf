@@ -1,5 +1,7 @@
 theme: jekyll-theme-cayman
 title: MineCampf 1.11.2 v1.0
+gems: ['jekyll-github-metadata']
+download: https://github.com/morlz/mineCampf/blob/master/mineCampf.zip
 show_downloads: true
 github:
     zip_url: https://github.com/morlz/mineCampf/blob/master/mineCampf.zip

@@ -16,7 +16,7 @@
 * CoFHCore-1.11.2-4.2.7.15-universal.jar
 * CoralReef-1.4.jar
 * CraftStudioAPI-universal-0.3.0.86-mc1.11.2-beta.jar
-* CreativeCore-1.11.2.jar
+* CreativeCore v1.8.5 mc1.11.2.jar
 * Drones-0.2.0.jar
 * DynamicLights_1.11.2.jar
 * EnderStorage-1.11.2-2.3.1.116-universal.jar
@@ -27,7 +27,7 @@
 * industrialcraft-2-2.7.81-ex111.jar
 * InventoryTweaks-1.62.jar
 * ironchest-1.11.2-7.0.25.815.jar
-* ItemPhysic-Mod-Full-1.11.2.jar
+* ItemPhysic Full 1.4.7 mc1.11.2.jar
 * jei_1.11.2-4.5.0.294.jar
 * Levels 2-1.11.2-r1.2.8.jar
 * ~~LostYourHope - 1.11.2 - v.0.9.7.2.jar~~ removed
@@ -47,3 +47,4 @@
 * torohealth-1.11.2-11.jar
 * TreeCapitator-Mod-1.11.2.jar
 * WearableBackpacks-1.11.2-2.5.0.jar
+* LittleTiles v1.5.0-pre20 mc1.11.2.jar

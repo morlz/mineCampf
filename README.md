@@ -2,8 +2,8 @@
 1. Download and extract `zip`
 2. Open `TLauncher.exe`
 3. Set `-Xms1G -Xmx8G` to **java** args. Where `8G` set your RAM size
-3. Install `forge1.11.2`
-4. copy mods folder to .minecraft folder to get `.minecraft/mods/1.11.2/`
+3. Install `Forge 1.11.2`
+4. copy mods folder to `.minecraft` folder to get `.minecraft/mods/1.11.2/modNames.jar`
 5. Run minecraft and connect to server
 
 # Pack contains

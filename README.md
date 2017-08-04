@@ -1,4 +1,4 @@
-# how to install
+# How to install
 1. Download and extract `zip`
 2. Open `TLauncher.exe`
 3. Set `-Xms1G -Xmx8G` to **java** args. Where `8G` set your RAM size
@@ -6,7 +6,7 @@
 4. copy mods folder to .minecraft folder to get `.minecraft/mods/1.11.2/`
 5. Run minecraft and connect to server
 
-# pack contains
+# Pack contains
 * EJML-core-0.26.jar
 * alltheblocks-1.11.2-1.1.0.jar
 * animania-1.11.2-1.2.1.jar

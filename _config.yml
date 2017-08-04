@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
-    github:
-        zip_url: "https://github.com/morlz/mineCampf/blob/master/mineCampf.zip"
+title: "MineCampf 1.11.2 v1.0"
+github:
+    zip_url: "https://github.com/morlz/mineCampf/blob/master/mineCampf.zip"

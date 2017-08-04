@@ -3,7 +3,7 @@
 2. Open `TLauncher.exe`
 3. Set `-Xms1G -Xmx8G` to **java** args. Where `8G` set your RAM size
 3. Install `Forge 1.11.2`
-4. copy mods folder to `.minecraft` folder to get `.minecraft/mods/1.11.2/modNames.jar`
+4. Copy mods folder to `.minecraft` folder to get `.minecraft/mods/1.11.2/modNames.jar`
 5. Run minecraft and connect to server
 
 # Pack contains
@@ -30,7 +30,7 @@
 * ItemPhysic-Mod-Full-1.11.2.jar
 * jei_1.11.2-4.5.0.294.jar
 * Levels 2-1.11.2-r1.2.8.jar
-* LostYourHope - 1.11.2 - v.0.9.7.2.jar
+* ~~LostYourHope - 1.11.2 - v.0.9.7.2.jar~~ removed
 * Mantle-1.11.2-1.2.0.26.jar
 * mineturtle-1.11-1.0.2.jar
 * missing_pieces-1.11.2-4.3.0.jar

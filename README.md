@@ -48,3 +48,5 @@
 * TreeCapitator-Mod-1.11.2.jar
 * WearableBackpacks-1.11.2-2.5.0.jar
 * LittleTiles v1.5.0-pre20 mc1.11.2.jar
+* WailaHarvestability-mc1.11-1.1.10.jar
+* Waila-1.7.1_1.11.2.jar

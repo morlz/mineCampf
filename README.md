@@ -1,10 +1,11 @@
 # How to install
 1. Download and extract `zip`
 2. Open `TLauncher.exe`
-3. Set `-Xms1G -Xmx8G` to **java** args. Where `8G` set your RAM size
+3. In TLauncher config set `-Xms1G -Xmx8G` to **java** args. Where `8G` set your RAM size
 3. Install `Forge 1.11.2`
-4. Copy mods folder to `.minecraft` folder to get `.minecraft/mods/1.11.2/modNames.jar`
-5. Run minecraft and connect to server
+4. Delete the old `/config` folder and if mods in root of the `/mods` then delete it as well
+4. Copy mods folder to `.minecraft` folder to get `C:/Users/[ your user name ]/AppData/Roaming/.minecraft/mods/1.11.2/[ .jar files ]`
+5. Run minecraft and play
 
 # Pack contains
 * EJML-core-0.26.jar

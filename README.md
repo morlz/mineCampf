@@ -50,3 +50,5 @@
 * LittleTiles v1.5.0-pre20 mc1.11.2.jar
 * WailaHarvestability-mc1.11-1.1.10.jar
 * Waila-1.7.1_1.11.2.jar
+* DeathCounter-1.11-1.0.0.jar
+* mw_1.10.3_mc1.11.2.jar

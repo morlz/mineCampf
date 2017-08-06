@@ -9,8 +9,7 @@
 
 # Pack contains
 ## client side
-
-You can not use client side mods
+These mods you can not use
 
 * LittleTiles v1.5.0-pre20 mc1.11.2.jar
 * WailaHarvestability-mc1.11-1.1.10.jar

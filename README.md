@@ -9,7 +9,7 @@
 
 # Pack contains
 ## client side
-These mods you can not use
+These mods you can delete
 
 * LittleTiles v1.5.0-pre20 mc1.11.2.jar
 * WailaHarvestability-mc1.11-1.1.10.jar

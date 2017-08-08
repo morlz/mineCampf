@@ -3,12 +3,12 @@
 2. Open `TLauncher.exe`
 3. In TLauncher config set `-Xms1G -Xmx8G` to **java** args. Where `8G` set your RAM size
 3. Install `Forge 1.11.2`
-4. Delete the old `/config` folder and if mods in root of the `/mods` then delete it as well
+4. Delete the old `.minecraft/config` folder and if mods in root of the `.minecraft/mods` then delete it as well
 4. Copy mods folder to `.minecraft` folder to get `C:/Users/[ your user name ]/AppData/Roaming/.minecraft/mods/1.11.2/[ .jar files ]`
 5. Run minecraft and play
 
 # Pack contains
-## client side
+## Client side
 These mods you can delete
 
 * LittleTiles v1.5.0-pre20 mc1.11.2.jar
@@ -18,13 +18,13 @@ These mods you can delete
 * DynamicLights_1.11.2.jar
 * ItemPhysic Full 1.4.7 mc1.11.2.jar
 * jei_1.11.2-4.5.0.294.jar
+* BetterFps-1.4.5.jar
 
-## client and server
+## Client and server
 * EJML-core-0.26.jar
 * alltheblocks-1.11.2-1.1.0.jar
 * animania-1.11.2-1.2.1.jar
-* BetterFps-1.4.5.jar
-* buildcraft_1.11.2_7.99.4.jar
+* buildcraft-7.99.6.jar
 * CodeChickenLib-1.11.2-Recommended.jar
 * CoFHCore-1.11.2-4.2.7.15-universal.jar
 * CoralReef-1.4.jar
